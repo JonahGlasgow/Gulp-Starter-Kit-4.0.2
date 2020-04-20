@@ -2,8 +2,9 @@
 Basic web development setup for gulp projects using bootstrap, popper and jquery. 
 (This build is currently up to date with gulps latests version and will not work with gulp@3.9.1 due to breaking changes and major security updates please refer to the [Official Gulp Website](https://gulpjs.com/docs/en/getting-started/quick-start) for more information on Gulp@4.0.2) 
 
-* Please refer to the Package.json section before getting started.
-* Please refer to the quick setup section to get started 
+* Before getting started please refer to the [Package.json](#Package.jsonConfiguration(! important) ) section.
+
+* To get started please refer to the [Quick setup](#QuickSetup) section.
 
 ### Package.json Configuration (! important) 
 Development must follow the package.json schema to import node_module dependencies to project library, this function has been integrated with gulps default task for simplicity. If you decide to change the package.json schema make sure you include both "dependencies" and "devDependencies" to prevent errors from occurring while starting your server.
