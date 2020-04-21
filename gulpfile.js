@@ -68,7 +68,8 @@ function watch(){
 // init a basic server     
 browserSync.init({
     server: {
-    baseDir: './'  
+    baseDir: './src',
+    index: "index.html"  
     }
 });
 
