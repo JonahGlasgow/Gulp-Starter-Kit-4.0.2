@@ -9,17 +9,18 @@
   "author": "Jonah Glasgow",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.4.1",
-    "@popperjs/core": "^2.3.3",
+    "@popperjs/core": "^2.5.3",
+    "bootstrap": "^4.5.3",
     "jquery": "^3.5.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "yargs-parser": ">=13.1.2",
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-npm-dist": "^1.0.3",
     "gulp-rename": "^1.4.0",
     "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "pump": "^1.0.1"
   }
 }
