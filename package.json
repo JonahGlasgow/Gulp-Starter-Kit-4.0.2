@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "yargs-parser": ">=13.1.2",
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
     "gulp-npm-dist": "^1.0.3",
     "gulp-rename": "^1.4.0",
